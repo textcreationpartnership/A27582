@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appendix to a discourse of indictions and to a newly publish'd discourse of the jubilee of the kingdom of Christ.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27582</idno>
+            <idno type="STC">Wing B2123</idno>
+            <idno type="STC">ESTC R24056</idno>
+            <idno type="EEBO-CITATION">07944542</idno>
+            <idno type="OCLC">ocm 07944542</idno>
+            <idno type="VID">40627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1195:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appendix to a discourse of indictions and to a newly publish'd discourse of the jubilee of the kingdom of Christ.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. and J. Marshall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Time --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appendix">
+            <pb n="1" facs="tcp:40627:1" rendition="simple:additions"/>
+            <head>An APPENDIX, TO A DISCOURSE OF <hi>INDICTIONS:</hi> And to a Newly Publiſh'd Diſcourſe OF THE JUBILEE OF THE <hi>Kingdom of</hi> Chriſt.</head>
+            <head type="sub">Approaching at the next following <hi>Vernal E<g ref="char:EOLhyphen"/>quinox;</hi> in our Vulgar Account, 1701. Pro<g ref="char:EOLhyphen"/>poſed to the moſt Learned in <hi>Scripture, Hi<g ref="char:EOLhyphen"/>ſtory, Chronology;</hi> or, <hi>Arithmetick</hi> and <hi>Ac<g ref="char:EOLhyphen"/>countancy, for deep Conſideration.</hi>
+            </head>
+            <p>THE Prophetick Line of Time, from the Death of <hi>Solomon,</hi> to the glorious Kingdom of our Lord Jeſus Chriſt; which I have, for ſeveral Years laſt paſt, eſtabliſhed upon the greateſt Reaſons of Scripture Prophecy, and its Chronology; with the faireſt Agreement of Univer<g ref="char:EOLhyphen"/>ſal Hiſtory, and Chronology; is now confirm'd to
+<pb n="2" facs="tcp:40627:2"/> me, by the <hi>Indictional</hi> Frame, or <hi>Fifteens</hi> of Years, of which it is compoſed; that doth demonſtrate it to be one and the ſame entire Line, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> given at ſeveral Times, in ſeveral Cantons or Parts; and that it was ſo conſtitu<g ref="char:EOLhyphen"/>ted by the Divine Spirit, that we might know it to be one Line: And that by the Laws of <hi>Indiction,</hi> we may know where the Diſtributions Begin and End. That even as by the Hiſtorical and Propheti<g ref="char:EOLhyphen"/>cal Aſſignations of them, we have one view of them; ſo by <hi>Indictions</hi> we may have even <hi>Arithmetical</hi> De<g ref="char:EOLhyphen"/>monſtration of their Bounds.</p>
+            <p>The Line it ſelf, I preſent in the very Letter of Scripture, in plain open view.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Years</cell>
+                  </row>
+                  <row>
+                     <cell>Ezekiel's <hi>Viſional bearing the Iniquity</hi> (Ezek. 4. 4. 5) <hi>of the Houſe of</hi> Iſrael <hi>on his left ſide; a Day for a Year.</hi>
+                     </cell>
+                     <cell>390</cell>
+                  </row>
+                  <row>
+                     <cell>Ezekiel's <hi>Turning on his Right-ſide, immediately after the 390 Days accompliſh<g ref="char:EOLhyphen"/>ed; and bearing the Iniquity of the Houſe of</hi> Judah, <hi>forty Days,</hi> (v. 6. 8.) <hi>without turning from one ſide to another, to confuſe one time with another; and Bands Layd on him to that purpoſe by God.</hi>
+                     </cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="3" facs="tcp:40627:2"/>
+                        <hi>The long Line beginning with the</hi> Per<g ref="char:EOLhyphen"/>ſian <hi>Monarchy; given therefore viſionally by the River</hi> Ulai, <hi>in the Palace of</hi> Shu<g ref="char:EOLhyphen"/>ſhan, <hi>in the Province of</hi> Elam: <hi>All</hi> Per<g ref="char:EOLhyphen"/>ſian; <hi>of</hi> 2300 Evs-morns, <hi>according to the Prophetick Standard, a Day for a Year: During the time of the</hi> Sanctuary Trod<g ref="char:EOLhyphen"/>den <hi>under Foot, until the cleanſing,</hi> or Juſtification <hi>of it.</hi>
+                     </cell>
+                     <cell>2300</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The diſtribution of this long Line of 2300 <hi>Evs Morns,</hi> into its ſeveral Parts.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>1. <hi>The Time ſuppoſed of the Word's</hi> going forth <hi>to</hi> Reſtore Judah, <hi>and</hi> Je<g ref="char:EOLhyphen"/>ruſalem, (<hi>after the Seventy years of the</hi> Babyloniſh <hi>Captivity; and in all appea<g ref="char:EOLhyphen"/>rance, ending with the Forty Years of bear<g ref="char:EOLhyphen"/>ing</hi> Judah's <hi>Sin;) and beginning juſt before the Seventy Weeks, which commence from the time of the Word's</hi> going forth; <hi>which took up a valuable Space,</hi> Dan. 9. 25. <hi>For it was by the</hi> Commandment, <hi>and accord<g ref="char:EOLhyphen"/>ing to the Decree of</hi> Cyrus, Darius, Ar<g ref="char:EOLhyphen"/>taxerxes; <hi>and whoſe</hi> Decrees <hi>are written by</hi> Ezra, <hi>Ezr. 6. 14. This ſpace is by great Scripture and</hi> Chronologick <hi>Rea<g ref="char:EOLhyphen"/>ſons, and now by</hi> Indictions, <hi>ſhall be de<g ref="char:EOLhyphen"/>monſtrated to be.</hi>
+                     </cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="4" facs="tcp:40627:3"/>
+                        <hi>The Time of the ſeventy</hi> Weeks, For<g ref="char:EOLhyphen"/>ty nine <hi>of which join with the time of the Word's</hi> going forth <hi>to reſtore; and make an 124 Years with the</hi> Building <hi>the</hi> Wall <hi>by</hi> Artaxerxes <hi>His</hi> Letter <hi>on that Account,</hi> Nehem. 2. <hi>&amp;c. of which</hi> Nehemiah <hi>gives the Hiſtory.</hi> Sixty two of the Weeks <hi>run to the publick Appear<g ref="char:EOLhyphen"/>ance of the</hi> Meſſiah, Dan. 9. <hi>During his more retir'd Life, 'till his appearance as a Prince and Leader, at the one Week of his Publick Miniſtry,</hi> v. 25. Confirming the Covenant, <hi>and ſealing it by his Death,</hi> v. 27. <hi>in the</hi> half <hi>or</hi> middle <hi>of the</hi> Week; <hi>then for the other half</hi> Week, <hi>committing it to his Apoſtles, with the</hi> Spirit <hi>poured out,</hi> Revel. 6. 1. <hi>Repreſented by Chriſt's opening the</hi> Firſt Seal; <hi>going out</hi> Con<g ref="char:EOLhyphen"/>quering, <hi>and to</hi> Conquer; According to the Prophets <hi>Standard.</hi>
+                     </cell>
+                     <cell>490</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>From the End of the</hi> Weeks <hi>to the Be<g ref="char:EOLhyphen"/>ginning of the</hi> little Horns, (<hi>Dan.</hi> 7. 25.) Time, Times, <hi>and</hi> half Time, <hi>made out by great Scriptural and Hiſtorical Argu<g ref="char:EOLhyphen"/>ments, and</hi> Indictionally <hi>demonstrated The Time of the</hi> Seals <hi>Open'd. The</hi>
+                     </cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="5" facs="tcp:40627:3"/>
+                        <hi>The Time of the</hi> Time, Times <hi>and</hi> half Time, <hi>of the</hi> little Horns, (c.12.7.) wearing, ſcattering <hi>the</hi> Saints <hi>of the moſt</hi> High, <hi>and of the</hi> Church in the Wilder<g ref="char:EOLhyphen"/>neſs; <hi>Rev.</hi> 11. 3. c. 12. 6, 14. <hi>the</hi> Wit<g ref="char:EOLhyphen"/>neſſes Prophecy, <hi>in</hi> Sackcloth, <hi>with which concur the</hi> Gentiles, (<hi>Rev.</hi> 11. 1. c. 13. 5.) <hi>and the</hi> Beaſts 42 Moons.</cell>
+                     <cell>1260</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Additional time of</hi> Thirty, <hi>or two</hi> Indictions, <hi>added to the Times, and half of</hi> 1260, <hi>making</hi> 1290, <hi>under the Cha<g ref="char:EOLhyphen"/>racter of</hi> Time, <hi>From the</hi> taking away the daly Sacrifice.</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Addition of</hi> Forty Five, <hi>or Three</hi> Indictions <hi>to 1290, making 1335, reaches to the</hi> Bleſſed <hi>ſtate of the</hi> Kingdom <hi>of the Reſurrection, when</hi> Daniel <hi>ſhall</hi> ſtand <hi>in his</hi> Lot <hi>of the</hi> New Jeruſalem; <hi>which cannot be without the</hi> Reſurrection.</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Now, as it is moſt certain by Account, that theſe Sums laid together make</hi>
+                     </cell>
+                     <cell role="total">2730</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="6" facs="tcp:40627:4"/>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Indict.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>So it is moſt certain, even to</hi> Arith<g ref="char:EOLhyphen"/>metick <hi>Demonſtration; they ariſe by</hi> Indictions, <hi>or</hi> Fifteens.</cell>
+                     <cell role="total">182</cell>
+                  </row>
+               </table>
+            </p>
+            <p>That the Divine Spirit hath put an Honour upon the Number <hi>Fifteen,</hi> in chuſing it for the Day of the ſo ſolemn <hi>Feaſt of Tabernacles;</hi> which he made a great <hi>Type</hi> of his <hi>Kingdom,</hi> as appears by the moſt awful reading the Law on an <hi>indicted Time</hi> in it, in the Year of Releaſe, <hi>Deut.</hi> 31. 10. Adorning it with <hi>Paradiſiac Appearance</hi> in the moſt <hi>goodly Boughs;</hi> and by the <hi>Pro<g ref="char:EOLhyphen"/>phetick</hi> Repreſentation of the ſtate of the Kingdom of Chriſt, under the keeping that <hi>Feaſt, Zech.</hi> 14. 16. and the Miſery of thoſe who are ſhut for ever out of that Kingdom, in their not keeping it, and the pecu<g ref="char:EOLhyphen"/>liar mention of it in the Viſion of <hi>Ezekiel's</hi> glorious Tem<g ref="char:EOLhyphen"/>ple, <hi>Ezek.</hi> 45. 25.</p>
+            <p>But that he hath choſen it in this Line of Time, is the Buſineſs now in hand, and to be made out be<g ref="char:EOLhyphen"/>yond Contradiction; for the whole <hi>Twenty ſeven hun<g ref="char:EOLhyphen"/>dred thirty</hi> is all compoſed of <hi>Fifteens:</hi> Some peculiar Parts of it are given in ſuch Numbers, as Fall into <hi>Fifteens</hi> of themſelves; as 390, 1260, 1290, 1335; each of which deſerve great Conſideration: The Three hundred <hi>Ninety,</hi> as the Firſt Part of the <hi>Line of Time,</hi> hath this peculiar Remark; That as it is the Firſt Part, ſo it gives Meaſure and Frame to the whole: For as it is perfectly compos'd of <hi>Indictions;</hi> So it is moſt ob<g ref="char:EOLhyphen"/>ſervable; <hi>Three Hundred Ninety</hi> multiplyed by the Number <hi>Seven,</hi> of which Scripture makes ſo great Uſe in all Things, and in all <hi>Prophecy;</hi> both on Accounts of Mercy, of Grace; and of <hi>puniſhment</hi> for <hi>Iniquity, Levit.</hi> 26.
+<pb n="7" facs="tcp:40627:4"/> I ſay the Firſt <hi>Three Hundred Ninety</hi> multiplied by <hi>Seven,</hi> makes up the whole <hi>Prophetical Line</hi> of <hi>Twenty ſeven Hundred Thirty;</hi> and ſo caſts all into <hi>Indictions,</hi> or <hi>Fifteens,</hi> as any one moderately skill'd in Accoun<g ref="char:EOLhyphen"/>tancy, will eaſily find.</p>
+            <p>In the <hi>Thirteen hundred thirty five,</hi> the End, and ſhut<g ref="char:EOLhyphen"/>ting up of the whole Line, in the <hi>Fulneſs of all Times;</hi> There is, as I may humbly expreſs, a Care and Dili<g ref="char:EOLhyphen"/>gence, and even an Induſtry of the Divine Spirit, to compoſe it into <hi>Indictions,</hi> or <hi>Fifteens.</hi> For in the <hi>twelve hundred and ſixty,</hi> as the whole is all <hi>Indiction,</hi> ſo each Diviſion is according to <hi>indicted Time: Time,</hi> or one <hi>Time</hi> 36<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Years: Two <hi>Times,</hi> or one <hi>Time</hi> doubl'd, 720 Years. One time halv'd or 180 Y. each is perfect <hi>Indictional,</hi> and ſo the <hi>Hebrew</hi> firſt gave it its Style סועד: And that the Prophetick Spirit might awaken us to know, All is <hi>intentional;</hi> when he makes an Addition to 1260. It is by two <hi>Indictions,</hi> or <hi>Fifteens,</hi> in, 1290. When he makes an Addition to 1290, it is by Three <hi>Fif<g ref="char:EOLunhyphen"/>teens,</hi> 1335.</p>
+            <p>Whoever conſiders theſe <hi>Things,</hi> can no more think This could be by Chance, Then that Things argu'd from their Train, Series, and connexion in Creation, and Providence, to be the Products of an infinite Mind, could be by Chance. Could any one come after the Divine Spirit, and find that in his Writings, that he had not laid there? Or, could He lay them there and not know he laid them there himſelf; and could He be ſuppos'd to lay them there but as a <hi>Depoſitum,</hi> a <hi>Pro<g ref="char:EOLhyphen"/>phetical</hi> Treaſure, prepar'd for great Ends and Purpo<g ref="char:EOLhyphen"/>poſes: As</p>
+            <p>1. That we might know beyond the power of Ob<g ref="char:EOLhyphen"/>jection, That this whole Line, beginning at the Death of <hi>Solomon,</hi> when <hi>Iſrael</hi> and <hi>Judah</hi> became two Hou<g ref="char:EOLhyphen"/>ſes,
+<pb n="8" facs="tcp:40627:5"/> or Kingdoms, is one ſolid, real, and not imagi<g ref="char:EOLhyphen"/>nary one continued, and Progredient, and not di<g ref="char:EOLhyphen"/>vided, tho' diſtinguiſh'd Line to the <hi>Bleſſed State:</hi> It therefore begins in the <hi>Indictional</hi> 390, and ſo ends in 1335; ſo even curiouſly contrived into <hi>Indictions,</hi> and the middle part compriz'd between both, into the whole <hi>Indictional</hi> Frame, tho' in various Numbers, as is preſently to be ſhewn.</p>
+            <p>The ſupreme Wiſdom of the great <hi>Arithmetician,</hi> or <hi>Wonderful Numberer,</hi> as he is call'd, <hi>Dan.</hi> 8. 13. (ſee Margin there) is ſeen in his <hi>Arithmetick</hi> Frame. We cannot attain to its Perſection; for there is Wonder and Secreſie in it: But there is what we may apprehend, by conſidering, how, and when that ſtyle of Time, <hi>Indictions,</hi> or <hi>Fifteens</hi> of Years, came into Uſe; Luſtres, or Account of Time by <hi>fives</hi> of Years, had been long before; but then theſe <hi>Fives</hi> triplicated, or three join<g ref="char:EOLhyphen"/>ed together, and call'd <hi>Indictions,</hi> according to the ve<g ref="char:EOLhyphen"/>ry <hi>Hebrew</hi> Word, before noted, came into known and publick uſe at a peculiar Time, when <hi>Providence knew Prophecy</hi> would have need of it: And as <hi>In<g ref="char:EOLhyphen"/>dictions</hi> are conſtituted of the Number Five, which is the Number giving ſpring to all Parts of theſe Num<g ref="char:EOLhyphen"/>bers, and indeed of all the moſt Cardinal Numbers; the whole Compoſure is moſt wonderful of <hi>Fives,</hi> ſo join'd by <hi>Threes.</hi>
+            </p>
+            <p>The Time then of <hi>Indictions</hi> coming into known and publick Uſe, is that time agreed by all Hiſtory; when the <hi>Roman</hi> Empire from <hi>Pagan,</hi> became <hi>Chriſtian;</hi> un<g ref="char:EOLhyphen"/>der <hi>Conſtantine,</hi> memorializ'd, <hi>The Great,</hi> the Firſt <hi>Chri<g ref="char:EOLhyphen"/>ſtian Emperour:</hi> Since which time, it hath continued in uſe at <hi>Rome,</hi> and in what is call'd the <hi>Empire,</hi> to this day: Now from its firſt entrance, it had a time of ſettlement, and of growing into a generally us'd
+<pb n="9" facs="tcp:40627:5" rendition="simple:additions"/> Character of Time: The <hi>Roman</hi> Papacy was prepa<g ref="char:EOLhyphen"/>ring for its Supremacy; and the <hi>Barbarous Nations,</hi> that were to be the <hi>Kingdoms of the Ten Kings,</hi> its <hi>Horns;</hi> and who ſhould give their <hi>Kingdom</hi> and <hi>Pow<g ref="char:EOLhyphen"/>er</hi> to it, were preſſing into the <hi>Empire,</hi> as into an <hi>Outer-Court</hi> of Chriſtian Profeſſion, without the Power, being ſo much declin'd; and ſo began the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> two Moons</hi> af the <hi>Gentiles;</hi> and the <hi>Witneſſes</hi> beginning their 1260 <hi>Days</hi> of <hi>Prophecy, cloathed with Sack-cloath,</hi> both for the Ruine of the Empire, as a Publick Ca<g ref="char:EOLhyphen"/>lamity; and for the Viſible Beginnings of the <hi>Apo<g ref="char:EOLhyphen"/>ſtacy.</hi> And juſt about the Time when Providence had prepar'd the ſo now univerſally known Language of <hi>Indictions,</hi> or <hi>Fifteens</hi> of Years; by which <hi>Time, Times,</hi> and <hi>Half Indicted</hi> Time, might (had Prophecy been un<g ref="char:EOLhyphen"/>derſtood) have been certainly known to have Entered, <hi>viz.</hi> Some time between the Gentiles Preſſing in upon the Empire, and their having ſettl'd into Kingdoms, and the <hi>Papacy</hi> with them.</p>
+            <p>Thus the whole Line is ſetled upon its Frame of <hi>Indictions,</hi> as in its general view; but that we may more particularly and diſtinguiſhingly underſtand it, and how to diſcern Times by theſe <hi>Indictions,</hi> as un<g ref="char:EOLhyphen"/>der particular Diſtinctions of Time, is what I would now preſent: For, as if there had been a Line of <hi>Indictions,</hi> and yet no Diſtinctions in ſo long a Line, we could have made by <hi>Indictions</hi> alone, no Judg<g ref="char:EOLhyphen"/>ment of Time; So if there had not been <hi>Indictions,</hi> we could not have ſo exactly, and aſſuringly Judg'd of the Bounds of Time according to thoſe Diſtinctions, in ſome Parts of the Line.</p>
+            <p>That we may therefore the better Judge hereof, we muſt obſerve: This <hi>Indictional</hi> Line, though ſo
+<pb n="10" facs="tcp:40627:6"/> wholly made up of <hi>Indictions,</hi> or <hi>Fifteens,</hi> as hath been ſhewn, yet the Parts of it are variouſly given.</p>
+            <list>
+               <head>Some Parts in <hi>Indictions.</hi>
+               </head>
+               <item>390</item>
+               <item>1335</item>
+            </list>
+            <list>
+               <head>Some Parts in <hi>Numbers,</hi> but not in <hi>Indictions.</hi>
+               </head>
+               <item>40</item>
+               <item>490</item>
+            </list>
+            <p>Some neither in Number; nor in <hi>Indictions, viz.</hi> The Time between <hi>Cyrus</hi> his <hi>Decree,</hi> and the <hi>Weeks</hi> begin<g ref="char:EOLhyphen"/>ning: The Time after the <hi>Weeks</hi> to the beginning of the 1335 Days, And yet both fall in with the whole Line into <hi>Indictions.</hi> And we may humbly conceive of the Reaſons of all This.</p>
+            <p n="1">1. It was neceſſary, the Firſt Time of <hi>bearing Iſra<g ref="char:EOLhyphen"/>el's Sin,</hi> or the Firſt Three hundred Ninety Years in the Line, ſhould be given in perfect <hi>Indiction,</hi> becauſe it was to introduce the whole <hi>indictional</hi> Line; and to give, as it were, the Soul of <hi>Indiction</hi> to it.</p>
+            <p n="2">2. It was as neceſſary the 1335 ſhould be <hi>indictional,</hi> not only as ſhutting up, and conſummating the <hi>indi<g ref="char:EOLhyphen"/>ctional</hi> Line, but more principally, becauſe that was the Courſe of Time, God was pleaſed to give the <hi>Cri<g ref="char:EOLhyphen"/>terion,</hi> or Knowledge of by <hi>Indictions;</hi> and Providence had prepar'd according to <hi>Prophecy.</hi>
+            </p>
+            <p n="3">3. The giving theſe two Parts of Time in Num<g ref="char:EOLhyphen"/>ber, <hi>viz.</hi> The <hi>Forty Days</hi> of <hi>bearing Judah's Sin,</hi> was neceſſary, that the Time of the <hi>Babyloniſh Captivity</hi> end<g ref="char:EOLhyphen"/>ing, as a notable Pillar of Time, might be plainly known.</p>
+            <p>But moſt neceſſary, the <hi>Weeks</hi> to <hi>Meſſiah</hi> ſhould be
+<pb n="11" facs="tcp:40627:6"/> ſo preciſely given: That that lofty Pyramid of Time, called the <hi>Fulneſs of Time,</hi> might be prepared for, be<g ref="char:EOLhyphen"/>fore 'twas erected; and then ſtand firm to the End of Time, and fulneſs of Times, <hi>viz.</hi> All Times, <hi>Gal. 4. 4. Epheſ.</hi> 1. 10. or the Kingdom of Chriſt.</p>
+            <p>But they are not given in <hi>Indictions;</hi> even as the Time before the Weeks, and after them, not ſo much, as in Number, becauſe <hi>Prophecy</hi> was Pleas'd ſo far, to Veil it ſelf; That it might, by cloſe Search and En<g ref="char:EOLhyphen"/>quiry, be underſtood, and open'd to thoſe only, who, <hi>through Deſire ſeparating themſelves,</hi> are ſtirr'd up by God, to <hi>intermeddle with that Wiſdom:</hi> And withal, this Fluency of the <hi>Line of Time,</hi> from the End of the Firſt 390, to the Beginning of the 1335, through the ſeveral ſucceſſive <hi>Indictions,</hi> and the ſeveral diſtinctive Diviſions of the Line by its Titles of Event upon it; as the <hi>words going forth,</hi> the <hi>Weeks,</hi> the Time of the <hi>Seals,</hi> is yet by them kept united, and conjoyn'd with it ſelf, while the ſame <hi>Indiction</hi> takes hold of one Part, and of the other in each Diſtinction; and will ſhew, how according to the Laws of <hi>Indiction,</hi> thoſe Years that are not numbred, are to be determined in their Numbers: And even in the very Parts of the Line, that are moſt under the guard of <hi>Indiction,</hi> yet thoſe moſt lofty Columns of Event, diſtinguiſhing Time, may fall in the middle of an <hi>Indiction,</hi> or of a <hi>Fifteen;</hi> that though they divide Time, doe not di<g ref="char:EOLhyphen"/>vide the <hi>Indiction</hi> from itſelf; each of which will now be ſeen.</p>
+            <p>The moſt ſtately Pillars of Event, diſtinguiſhing Time in the Line, I look upon to be,</p>
+            <p n="1">1. The Time of the <hi>Laſt Week</hi> of the 70, <hi>viz.</hi> The lofty Boundary of Time which the <hi>Chriſtian Era</hi> of Account hath kept known and ſure; and Extoll'd by the
+<pb n="12" facs="tcp:40627:7"/> Style of the <hi>Fulneſs of Time,</hi> in Scripture; the Publick <hi>Apoſtolate</hi> of the <hi>High-Prieſt,</hi> and <hi>Apoſtle of our Pro<g ref="char:EOLhyphen"/>feſſion</hi> here on Earth; his Death, Reſurrection, <hi>Aſcen<g ref="char:EOLhyphen"/>ſion,</hi> and <hi>giving his Spirit</hi> in the Miniſtry of the <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> during the opening the <hi>Firſt</hi> Seal within the laſt Week; going out on his <hi>White Horſe,</hi> of Goſpel-ſtate; <hi>Conquering,</hi> and to <hi>Conquer. Rev.6.1.</hi>
+            </p>
+            <p n="2">2. The <hi>Roman Empire</hi> becoming Chriſtian, under <hi>Conſtantine,</hi> a very magnificent Pillar of time before mention'd, for the ſake of <hi>Indictions,</hi> brought into publick Knowledge and Uſe ſoon after.</p>
+            <p n="3">3. The middle part of the Time, between the firſt Inſults of the <hi>Barbarous</hi> Nations upon the <hi>Empire;</hi> and the very ſubjugating of it. For at that time, about the middle Point, <hi>viz.</hi> Four hundred Thirty Seven of Vulgar Account, then the <hi>Gentile</hi> 42 Moons entred; and the 1260 <hi>Days</hi> of the <hi>Witneſſes Sackcloth</hi> begin; and therefore Great.</p>
+            <p n="4">4. The <hi>Weſtern Roman</hi> Empire, and the <hi>Imperial</hi> Ex<g ref="char:EOLhyphen"/>altation of <hi>Rome,</hi> ceaſing; and the <hi>Papacy</hi> entring with its 42 <hi>Moons,</hi> with which the <hi>Gentiles</hi> 42 <hi>Moons</hi> Co<g ref="char:EOLhyphen"/>leſce, and together make a Parallel Line, with the 1260 Days. This is a great and Cardinal Event of Time.</p>
+            <p n="5">5. The <hi>Mahometan Impoſture,</hi> and <hi>Tyranny,</hi> and <hi>Hegira</hi> beginning with the <hi>Saracenick Five Months</hi> of <hi>Torment,</hi> and <hi>five Months</hi> of <hi>Hurting Men,</hi> and <hi>five Months</hi> of Intervals, <hi>Revel.</hi> 9. v. 5, 10. Fairly allow<g ref="char:EOLhyphen"/>able in its Intermiſſions, or declining State; and ſo given, as it were, <hi>Indictionally,</hi> with which admirably agrees the Duration of their Tyranny; as made out by the Reverend and Learned Annotator on the <hi>Revelations,</hi> to be 435. And then the <hi>Hour, Day, Month, Year</hi> of the <hi>Ootoman Empire,</hi> perfectly <hi>Mahometan</hi> alſo, endures
+<pb n="13" facs="tcp:40627:7"/> a Judgment on the <hi>Anti Chriſtian Papal</hi> ſtate, while it laſts.</p>
+            <p n="6">6. The <hi>Papal Supremacy</hi> made an Image to the <hi>Ro<g ref="char:EOLhyphen"/>man Imperial Power,</hi> by the other Beaſt, the <hi>Roman</hi> Hie<g ref="char:EOLhyphen"/>rarchy when it came to its Number: Its Command of <hi>Image-worſhip,</hi> and <hi>Interdiction</hi> of thoſe who would not Worſhip: Its Anathematizing upon Emperors on that account, Ratify'd by that <hi>Second Council</hi> of <hi>Nice:</hi> Its depoſing Emperors, and taking upon it ſelf a Right of diſpoſing Crowns, and Kingdoms; all which bear a great Relation to the Indictional <hi>Time,</hi> in its <hi>two times</hi> at 1157, and unto 1517, tho' not proper here to in<g ref="char:EOLhyphen"/>ſiſt upon.</p>
+            <p n="7">7. The very ſtately Pillar of the <hi>Reformation,</hi> the moſt to be Celebrated Partition of the <hi>Beaſts,</hi> or Papacy's Firſt riſing <hi>Time;</hi> and his <hi>two Times</hi> of Strength, and full Potentacy; and his half <hi>Time of</hi> De<g ref="char:EOLhyphen"/>clination; from 1517; Are each and all exactly <hi>In<g ref="char:EOLhyphen"/>dictional,</hi> and the Laſt by a Recent Agreement of Hiſtory found at 1517.</p>
+            <p>That which we now expect, is that greateſt Glory of <hi>Indictional Time;</hi> the finiſhing of Wonders, or of the <hi>Myſtery</hi> by the Angel of the <hi>Seventh Trumpet,</hi> at the End of the <hi>three Years</hi> and half, from the 1260, ending at 1697; and thoſe <hi>three Years</hi> and a half to End at the next following <hi>Vernal Equinox</hi> of the Year, in Vulgar Account 1700, or 1701.</p>
+            <p>That which remains now; is, to ſhew how by the Rules and Laws of <hi>Indictions,</hi> in a whole Line conſti<g ref="char:EOLhyphen"/>tuted of <hi>Indictions,</hi> or <hi>Fifteens</hi> of Years; We may find, what Number, or propoportion of Years is to be determin'd to thoſe two Parts of the Line, <hi>viz.</hi>
+            </p>
+            <pb n="14" facs="tcp:40627:8"/>
+            <p>
+               <hi>Firſt.</hi> From the <hi>Forty</hi> Years of <hi>Bearing</hi> the <hi>Sin of Ju<g ref="char:EOLhyphen"/>dah,</hi> to the beginning of the 70 Weeks, or of the 490 Years (which was the time of the <hi>Words going forth.</hi>)</p>
+            <p>
+               <hi>Secondly.</hi> What proportion of Time, or Number of Years we may fix upon from thoſe Seventy <hi>Weeks</hi> end<g ref="char:EOLhyphen"/>ing, or the <hi>Laſt Week,</hi> (That ſo lofty <hi>Pyramid</hi> of Time) to that ſo grand <hi>Indictional</hi> Time of the 13<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>35 Years, by which we may exactly know, at what time, and in what Year of <hi>Vulgar Account it began.</hi> The Firſt of theſe I affirm to be 75. The Second 400. The whole we have to work upon are 1005 Years, perfectly <hi>Indictional.</hi>
+               <note place="margin">viz. 40 75 490 400</note>
+            </p>
+            <p>To this great purpoſe I would lay down theſe ſelf<g ref="char:EOLhyphen"/>evident Rules and Laws of <hi>Indiction,</hi> which I thus ap<g ref="char:EOLhyphen"/>ply,</p>
+            <p n="1">1. That ſeeing the <hi>Line</hi> conſiſts of <hi>Twenty ſeven<g ref="char:EOLhyphen"/>hundred</hi> and <hi>thirty Years;</hi> and 182 <hi>Indictions,</hi> there can be no Number added; not ſo much as an Unit, or taken away; even in thoſe Parts of the Line not given in <hi>Number,</hi> much leſs in thoſe given in Number; for as Room cannot be ſpared for more, ſo there can be no <hi>Vacuum</hi> or Emptineſs in ſuch a Line ſtrictly given.</p>
+            <p n="2">2. Whatever is given in <hi>Indiction</hi> by the Divine Spirit, muſt reſt in <hi>Indiction,</hi> and not be ſtirred out of it, becauſe the <hi>Spirit</hi> of <hi>Prophecy</hi> hath canoniz'd it; ſo the 390, and the 1335 cannot help any portion of this Line not given in <hi>Indiction.</hi>
+            </p>
+            <p>
+               <hi>Rule</hi> 3. When the whole Frame is perfectly <hi>Indi<g ref="char:EOLhyphen"/>ctional,</hi> and yet there are ſeveral Portions not in them<g ref="char:EOLhyphen"/>ſelves Fram'd into <hi>Indictions;</hi> thoſe Parts muſt Borrow and Lend, out of, and to another, That they may be all <hi>Indictional;</hi> for though each Portion, as it is gi<g ref="char:EOLhyphen"/>ven in ſuch a Number, and ſo conſider'd, cannot be chang'd; yet when the whole Line is conſider'd, as ſuch a whole Entire Line compoſed of ſeveral Parts, and
+<pb n="15" facs="tcp:40627:8"/> all <hi>Indictional.</hi> One <hi>Indiction</hi> or <hi>Fifteen</hi> ſucceeds ano<g ref="char:EOLhyphen"/>ther, without regard to each particular Number, but reſpects the whole as <hi>Indictional.</hi>
+            </p>
+            <p>Thus the <hi>Forty</hi> of <hi>bearing Iſrael</hi>'s Sin, is not given by even <hi>Fifteens;</hi> but wants <hi>Five;</hi> Though then as a Portion of time ſo given, it cannot be more then <hi>Forty;</hi> yet as in the <hi>Indictional</hi> Frame it goes to the next Portion; the Time of the <hi>Words going forth,</hi> and borrows <hi>Five</hi> of that: That Portion accounted (as I affirm it ſhould be) at 75, having lent <hi>Five,</hi> wants them for it ſelf, as <hi>Indictional;</hi> it therefore goes on to the 490 of the <hi>Weeks,</hi> and borrows five of them: The <hi>Four hundred ninety</hi> of the <hi>weeks</hi> in the <hi>Indictional</hi> Frame then becomes but 485, by lending Five to the former Portion; but that Number having Five ſtill supernu<g ref="char:EOLhyphen"/>merary to <hi>Indiction,</hi> it offers thoſe Five to the 400 fol<g ref="char:EOLhyphen"/>lowing the Weeks, which receive them, ſo all becomes <hi>Indictional</hi> to perfection: And this hath nothing ſtrange, but what is found in all Numbers, in a pro<g ref="char:EOLhyphen"/>grediency. Four Fives may be accounted as each a diſtinct Number; and as together making Twenty: Con<g ref="char:EOLhyphen"/>ſider'd as Five, each ſtay in themſelvs; Conſider'd as making up Twenty, they flow in ſingle Units one after another into Twenty; ſo in this <hi>Indictional</hi> Line, Numbers may be conſider'd as limited to themſelves, or flowing on <hi>Indictionally</hi> into ſuch a number of <hi>Indi<g ref="char:EOLhyphen"/>ctions.</hi> Thus <hi>Forty,</hi> and Four hundred ninety are Numbers limited to themſelves, as ſuch Numbers; but in an <hi>Indictional</hi> Frame, they freely take, and give ac<g ref="char:EOLhyphen"/>cording to the Law of <hi>Indictions,</hi> and the whole Line is as beautifully conjoin'd, as if each Part had been given in <hi>Indiction,</hi> even as the 1005 in the whole.</p>
+            <p>But the great Doubt ſtill remains, what Proof from <hi>Indictions</hi> may be given? That the time of the Words
+<pb n="16" facs="tcp:40627:9"/> 
+               <hi>going forth,</hi> before the <hi>Weeks,</hi> was 75; for if that be prov'd, then it undeniably follows; the Time after the Weeks muſt be 400, and no more; and ſo what Proof can be given, the time after the Weeks was 400; for the Time, if that be prov'd, before the Weeks muſt be 75. the whole Line requiring there be neither more nor leſs; and the <hi>Thouſand five</hi> of theſe Portions of Time are even as <hi>Indiction</hi> requires the ſame: And this further is abſolutely neceſſary to be known, to fix the Time, <hi>viz.</hi> when the <hi>Twelve hundred ſixty</hi> of the Witneſſes Sackcloth began, and where we now are in Time: To fix this, I therefore conſider theſe further Rules of <hi>Indiction.</hi>
+            </p>
+            <p>That there be no more taken or given from one Joint of the Line to the other, then juſt makes up the <hi>Indicti<g ref="char:EOLhyphen"/>on;</hi> now in the Rule of Proportion I have given, there is no more, then juſt <hi>Five</hi> making the Firſt <hi>Forty five,</hi> which it wanted to make up three <hi>Indictions;</hi> the <hi>ſeventy five</hi> I ſettle upon before the Weeks, receive back the <hi>five,</hi> they lent, <hi>viz.</hi> Five from the 490 of the Weeks, making them juſt <hi>Five Indictions.</hi> The 490 of the Weeks having Ten ſupernumerary to Thirty two <hi>In<g ref="char:EOLhyphen"/>dictions,</hi> and having lent five to the Time before the Weeks, lends alſo <hi>five</hi> to the Time after the Weeks, making them 405, and <hi>Twenty ſeven Indictions;</hi> Thus there is as little taken, as the very nature of <hi>Indictions</hi> will bear.</p>
+            <p>Whatever is added to, or taken from any Partition of Time, muſt be added to, or taken from the Begin<g ref="char:EOLhyphen"/>ning and End of each Portion; For ſo this Law of <hi>Indi<g ref="char:EOLhyphen"/>ctions</hi> requires, as the <hi>Forty</hi> have added to their End, taken from the Beginning of the <hi>Four hundred ninety</hi> of the Weeks: The <hi>Four hundred</hi> after the Weeks have Five taken from the End of the Weeks, ſet before their
+<pb n="17" facs="tcp:40627:9"/> their Beginning; for thus only <hi>Indictions</hi> and Portions of Time will bear, and not to be Intruded upon in their intimate Parts.</p>
+            <p n="3">3. That which exceedingly gives Beauty to this Frame is, That all is by three <hi>Luſtres</hi> or <hi>Fives,</hi> gathered up into one <hi>Indiction:</hi> Although therefore there might be other Numbers then 75, and 400; and other tran<g ref="char:EOLhyphen"/>ſpoſes from one to the other: Yet it is even <hi>Arith<g ref="char:EOLhyphen"/>metical</hi> Evidence, there could be no other Fixation ſo Curious, Beautiful, <hi>Symmetrall,</hi> and agreeable to an <hi>Indictional</hi> Line, as this.</p>
+            <p>And it is not to be paſs'd by; That theſe 75, as Five <hi>Indictions,</hi> are <hi>Symmetrally</hi> agreeable to the <hi>Seventy</hi> Five, or the Five <hi>Indictions,</hi> that Run beyond the 1260, to 133<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, at the End of the 2300; So the ſame <hi>Number</hi> Be<g ref="char:EOLhyphen"/>gins and Ends that long Line.</p>
+            <p n="4">4. There is yet one Aſſurance more from the <hi>Indi<g ref="char:EOLhyphen"/>ctional</hi> Frame, that fills up the meaſure, <hi>ſhaken together, preſſed down,</hi> and <hi>running over:</hi> And it is that the <hi>For<g ref="char:EOLhyphen"/>ty two Moons of the Beaſt</hi> enter at that ſo Recorded Time of the <hi>Roman Weſtern Empire ceaſing</hi> in <hi>Vulgar</hi> Account, 476, and according to the <hi>Golden Number</hi> of Ade<g ref="char:EOLhyphen"/>quation of <hi>Lunar</hi> Time to Solar; broght in ſo long ago by <hi>Meton. Lunar</hi> Time bears the proportion of 1222 Years to 1260. There muſt therefore have run out from 475, Thoſe 1222 Years at 97 ending; and they being to be join'd to the <hi>Thirty Eight</hi> Years of the 1260 before them, and to the <hi>Moons</hi> of the <hi>Gen<g ref="char:EOLhyphen"/>tiles;</hi> All making up the <hi>Time, Times</hi> and <hi>half Time,</hi> or whole, 1260 Days: There is Room for no more then 400 Years, the time of the <hi>Seals open'd</hi> from that ſo of<g ref="char:EOLhyphen"/>ten mention'd lofty <hi>Pyramid of Time;</hi> the laſt of the <hi>Seventy VVeeks</hi> ending 37 Years from the <hi>Chriſtian Era</hi> or <hi>Incarnation;</hi> ſo generallly known and accounted by:
+<pb n="18" facs="tcp:40627:10"/> And if there be Room for no more then 400; there muſt be 75, and no more between the 40 of <hi>bearing the Iniquity of the Houſe of Judah,</hi> and the 490 of the Weeks according to the <hi>Prophetical Line</hi> given.</p>
+            <p>And thus God hath been pleas'd to give ſuch an Aſſu<g ref="char:EOLhyphen"/>rance to this ſtating of the Line of Time, as is deferr'd to the <hi>Julian Period,</hi> found by <hi>Scaliger;</hi> and ſo Ap<g ref="char:EOLhyphen"/>proved of for its certainty: The adjuſtment of <hi>Solar, Lu<g ref="char:EOLhyphen"/>nar</hi> Time, and <hi>Indiction,</hi> one to another.</p>
+            <p>Now ſeeing all this leads ſo demonſtratively to <hi>Nine<g ref="char:EOLhyphen"/>ty ſeven</hi> elaps'd, and that Scripture cannot be broken or diſſolv'd; As hath been made out, It muſt needs be, That there muſt be a Reſerve of Time, in the ſecret Counſels of Prophecy, of the Three Years and half ſo remarkably given, <hi>Revel.</hi> 11. And that have their Place in the Firſt three Years and <hi>half</hi> of the 30, beyond 1260, <hi>viz.</hi> in the 1290, which 3 Y. and <hi>half</hi> ſhall Expire at the next Springs Equation of Day and N.</p>
+            <p>I humbly therefore preſent this ſo Full Repreſentati<g ref="char:EOLhyphen"/>on, that I could not, nor durſt Conceal: That when God had upon the ſeveral Arguments from <hi>Prophetick</hi> Images join'd with Scripture and general <hi>Chronology,</hi> and <hi>Hiſtory,</hi> been pleas'd to Found me on this very <hi>Scrip<g ref="char:EOLhyphen"/>ture Line of</hi> Time, as appears by the Treatiſe Entituled, <hi>the Scripture Calendar</hi> of <hi>Prophetick</hi> Time, Publiſh'd 1684. About an <hi>Indiction</hi> paſt at 1699. He ſhould be pleas'd to ſhew me then ſuch a Frame from <hi>Indictions</hi> or <hi>Fifteens</hi> of Years (of which it is ſo undeniable, his Word makes ſo great Account) even <hi>Arithmetically</hi> demon<g ref="char:EOLhyphen"/>ſtrative; That it is even to my Admiration and Aſto<g ref="char:EOLhyphen"/>ment. And I deſire it ſhould be wholly to the Glo<g ref="char:EOLhyphen"/>ry and Praiſe of his Grace, and for the exciting Faith, Hope, Prayer. And I moſt freely ſubmit it to the ſe<g ref="char:EOLhyphen"/>vereſt
+<pb n="19" facs="tcp:40627:10"/> Examination, that is Scripturally Rational; I am moſt aſſured, Except very Letter of Scripture only, Nothing depending on Argument can be more Firmly, proved. And I find ſuch an inward Aſſurance That if God ſhould call me to it, I hope I ſhould, through the <hi>Blood of the Lamb,</hi> and the <hi>word of his Teſtimony Overcome,</hi> even to the not <hi>loving of my Life to the Death</hi> on Account of it: Nor could I rejoice to ſurvive it, if a Failure could poſſibly be ſuppos'd; but moſt humbly beg, with ſubmiſſion to the Divine Will; that he would grant me ſo much more of Life, as to ſee <hi>Ezekiels Ha-Galgal,</hi> that great <hi>Revolution</hi> of his <hi>Kingdom,</hi> That it might be <hi>cryed in my hearing; Oh wheele,</hi> c. 10. 13.</p>
+            <p>And becauſe what I have now Written is the very higheſt, I can hope ſhould be reveal'd in this great Point: I have added this Publication as an Appen<g ref="char:EOLhyphen"/>dix to a Treatiſe, Entituled; <hi>Indiction,</hi> or accounting by <hi>Fifteens,</hi> the Great Style of <hi>Prophetick</hi> Time; Pub<g ref="char:EOLhyphen"/>liſh'd 99. and to another, Entituled; The <hi>Good Hope through Grace,</hi> The <hi>Jubilee</hi> of the <hi>Kingdom of Chriſt</hi> ſhall come on the <hi>Popiſh Jubilee.</hi> Publiſhed this 1700. And have nothing now to do, but with the <hi>Spirit,</hi> and the <hi>Bride,</hi> reſtleſly Day and Night to ſay, <hi>Come</hi> in the great Preparations to thy <hi>Kingdom</hi> at the next Spring<g ref="char:EOLhyphen"/>time of thy <hi>Reſurrection; viz.</hi> the Ceſſation of Anti-Chriſtian Perſecution, the Down-fall of <hi>Antichriſt,</hi> the ri<g ref="char:EOLhyphen"/>ſing of the <hi>Witneſſes, &amp;c.</hi> Making it the Beginning of the ſacred Year Anew; and then in thy Kingdom it ſelf. And oh that all Saints would Joyn in the Harmony. <hi>Even ſo, come Lord Jeſus, come quickly.</hi>
+            </p>
+            <trailer>The END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>P. 9. l. 7. for <hi>twenty two Moons,</hi> put <hi>Forty two Moons.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:40627:11"/>
+            <head>The Poſtſcript in ſupply of a Preface to the Reader.</head>
+            <p>AS it is truly ſaid, Knowledge and Learning have no Enemy, but Ignorance; ſo Re ſearch into the more retired Parts of Knowledge hath no E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emy but Prejudice, and a loath<g ref="char:EOLhyphen"/>neſs either through the wait of Leiſure, or vigour of Thoughts; or too great a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove of Eaſineſs, and a walking on in a beaten or plain <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck, and a Choice to ſta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Principle, and the Beginnings of the Doctrine of Chriſt: And when Men have choſen this, they ſeek a Juſtification from ſome Appearances <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scripture and Reaſon: But <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>till An<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can make it appear, There are ſome Prophecies and Nume<g ref="char:EOLhyphen"/>ralls of them, which we are forbidden to enquire (or as I know they affect to expreſs themſelves) to pry into: T<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y can never perſwade Any, to whom God hath given <hi>Minds,</hi> that <hi>have Underſtanding,</hi> to ſurceaſe their Diligence therein.</p>
+            <p>And as to the preſent <hi>Indictional</hi> Frame preſented, they have but one <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f theſe two things to do.</p>
+            <p>
+               <hi>1.</hi> To deny that theſe Numbers are found in the <hi>Scriptures</hi> of <hi>Truth;</hi> Or, that there is a miſtake in the caſting them up: Nei<g ref="char:EOLhyphen"/>ther of which I am ſure, can be attempted by any in their, <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding: And as it is ſupremely to be acknowledged to the Divine Being, that the very Excellency of that Being proves it ſelf; So This very Line I have h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re offerr'd, proves it ſelf in its kind: And therefore, That Ninety ſeuen is paſſed off without ſo great Effecs, as were ex<g ref="char:EOLhyphen"/>pected: We muſt either acquieſe in God's Reſerving the Three Days and half, <hi>viz.</hi> Three Years and half, as a Time of Delay to make his Infraction, and Breach on the Line, given us, known to us, becauſe of our unſuitable Frame to ſo great a Glory, as his Kingdom's Opening; or we may ſuppoſe, there may be a Miſtake in our Vulgar Computation from the Chriſtian <hi>Era</hi> of the Incarnation:</p>
+            <p>But the R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>formation ſo monumentally entring according to it: 1517, at the juſt <hi>Half-Time</hi> according to <hi>Indiction,</hi> ſo exactly, forbids that Thought: Or,</p>
+            <p>
+               <hi>Laſtly,</hi> We muſt ſuppoſe, there were Diſpoſes of Providence in this l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt Ninety ſeven, wherein the Seeds of great Changes are laid up; though they do not appear yet viſible to our Senſe, or Obſerva<g ref="char:EOLhyphen"/>tion: The Fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Beſt; I therefore beg this One Favour of the Can<g ref="char:EOLhyphen"/>did, Chriſtian Reader: Cloſe Application, and Conſideration under Divine Illumination.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W.</hi> and <hi>J. Marſhall,</hi> in <hi>Newgate</hi> and <hi>Grace-Church-ſtreet,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
